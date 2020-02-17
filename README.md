@@ -13,7 +13,7 @@ I'll assume that you have an FV-1 development board. It is possible to program t
 
 ## Fundamentals
 
-- [x] Running SpinASM IDE on a Mac
+- [ ] Running SpinASM IDE on a Mac
 - [x] Connecting your FV-1 to your windows machine
 - [ ] loading program onto EEprom using development board SPIN1001
 
