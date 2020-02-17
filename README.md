@@ -7,11 +7,17 @@ The experiments are listed below, the check box indicates if the particular expe
 - [ ] incomplete
 - [x] complete
 
+## Assumption
+
+I'll assume that you have an FV-1 development board. It is possible to program the external EEProm in other ways, but I can't help you there. 
+
 ## Fundamentals
 
+- [x] Running SpinASM IDE on a Mac
+- [x] Connecting your FV-1 to your windows machine
 - [ ] loading program onto EEprom using development board SPIN1001
-- 
 
+[Fundamentals writeups](./fundamentals/readme.md)
 
 ## Simple
 
