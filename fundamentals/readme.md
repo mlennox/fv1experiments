@@ -26,3 +26,11 @@ Then select the `USB` menu item, where you will probably see a number of well-na
 ![](../images/DevicesMenuOpenUnknownDevice.png)
 
 ## Loading a program onto the FV-1
+
+![](../)
+
+https://www.diystompboxes.com/smfforum/index.php?topic=108891.0
+
+## setting up a project with multiple programs in SpanASM IDE
+
+![](../images/ProjectDialog.png)
